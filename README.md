@@ -3,7 +3,7 @@
 ![Badge Tecnologia](http://img.shields.io/static/v1?label=Flutter&message=2.8.1&color=blue&style=fleat)
 ![Badge Tecnologia](http://img.shields.io/static/v1?label=Dart&message=2.13.3&color=black&style=fleat)
 
-Projeto Deliveryapp do curso flutter na COD3ER, é um, aplicativo de delivery para restaurante, neste app o usuário terá acesso a tela de categorias de refeições, onde selecionando-a será mostrado uma nova tela com todas as refeições disponível, permitindo o usuário clicar na refeição e ver todos os detalhes da mesma, inclusive marca uma refeição como favorita, e também tem um menu com opção de filtrar as refeições que não contem glúten, lactose ou mostrar refeições veganas, vegetarianas.
+Projeto Deliveryapp do curso flutter na COD3ER, é um aplicativo de delivery para restaurante, neste app o usuário terá acesso a tela de categorias de refeições, onde selecionando-a será mostrado uma nova tela com todas as refeições disponível, permitindo o usuário clicar na refeição e ver todos os detalhes da mesma, inclusive marca uma refeição como favorita, e também tem um menu com opção de filtrar as refeições que não contem glúten, lactose ou mostrar refeições veganas, vegetarianas.
 
 # Screens
 
