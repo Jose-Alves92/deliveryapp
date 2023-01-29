@@ -10,7 +10,7 @@ A aplicação consiste em um app de delivery para restaurante, neste app o usuá
 
 ## Layout mobile
 
-![expenses-image-01](https://github.com/Jose-Alves92/expenses/blob/main/assets/readme/expenses-image-01.png) ![expenses-image-02](https://github.com/Jose-Alves92/expenses/blob/main/assets/readme/expenses-image-02.png) ![expenses-image-03](https://github.com/Jose-Alves92/expenses/blob/main/assets/readme/expenses-image-03.png)
+![deliveryapp-image-01](https://github.com/Jose-Alves92/deliveryapp/blob/main/assets/readme/deliveryapp-image-01.png) ![deliveryapp-image-02](https://github.com/Jose-Alves92/deliveryapp/blob/main/assets/readme/deliveryapp-image-02.png) ![deliveryapp-image-03](https://github.com/Jose-Alves92/deliveryapp/blob/main/assets/readme/deliveryapp-image-03.png) ![deliveryapp-image-04](https://github.com/Jose-Alves92/deliveryapp/blob/main/assets/readme/deliveryapp-image-04.png) ![deliveryapp-image-05](https://github.com/Jose-Alves92/deliveryapp/blob/main/assets/readme/deliveryapp-image-05.png)
 
 # Tecnologias utilizadas
 
